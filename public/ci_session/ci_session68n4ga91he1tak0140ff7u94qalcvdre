@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1674289579;_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:1:{s:5:"input";s:0:"";}}__ci_vars|a:2:{s:13:"_ci_old_input";s:3:"new";s:21:"_ci_validation_errors";s:3:"new";}_ci_validation_errors|a:3:{s:4:"nama";s:11:"Harus diisi";s:7:"jabatan";s:11:"Harus diisi";s:7:"kontrak";s:11:"Harus diisi";}
